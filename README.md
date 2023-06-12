@@ -5,7 +5,7 @@ This code is not mine ! It was made by Michael Mardahl. I have only made some tr
 
 [Original code by Michael Mardahl](code/original.ps1)
 
-<a href="https://github.com/mardahl"><img src="https://www3.lunapic.com/do-not-link-here-use-hosting-instead/168621319049324790?33077912720" width="80" /></a>
+<a href="https://github.com/mardahl"><img src="https://github.com/Narco360/Bitlocker_AD/assets/126324199/07d14e20-38a8-4219-9db5-ecf0034b83f7" width="80" /></a>
 
 # Translations:
 * [français](code/français.ps1)

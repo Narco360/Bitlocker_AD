@@ -63,7 +63,9 @@ try {
 BackupToAAD-BitLockerKeyProtector -MountPoint $BitlockerDrive -KeyProtectorId $BitlockerKey -ErrorAction SilentlyContinue
 Write-Output "Попытка сохранения ключа в Azure AD - Пожалуйста, проверьте вручную!"
 exit 0
-} catch {
+
+} catch 
+{
 Write-Error "Это никогда не должно происходить. Отладьте меня!"
 exit 1
 }
